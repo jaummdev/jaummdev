@@ -1,4 +1,4 @@
-## <h1 align="center"> Oi, tudo bem? Me chamo Beatriz👋 </h1>
+## <h1 align="center"> Olá, Me chamo João Carlos. </h1>
 
 <p align="center"> Desenvolvedor Web (Front-End) | HTML, CSS, JS e React JS </p>
 
