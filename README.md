@@ -1,6 +1,6 @@
 ## <h1 align="center"> Olá, Me chamo João Carlos. </h1>
 
-<h2 align="center"> Desenvolvedor Web (Front-End) | HTML, CSS, JS e React JS </h2>
+<h2 align="center"> Estudante de Desenvolvimento Web (Front-End) | React JS e Next JS </h2>
 
 <p align="justify">Cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá. Estudando para aprender e desenvolver minhas habilidades como desenvolvedor e designer, mas com foco em Front-End.</p>
 <p align="justify">(Estudando um pouco de Banco de Dados também! com Firebase)</p>
