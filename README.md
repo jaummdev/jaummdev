@@ -18,16 +18,16 @@
 ## ⚡ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Illustrator" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Illustrator" width="50" height="50" />
 </div>
 
 ---
