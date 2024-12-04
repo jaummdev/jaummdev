@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Illustrator" width="40" height="40" />
 </div>
 
 ---
