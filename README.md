@@ -8,7 +8,7 @@
 
 🎓 **Sobre Mim**
 
-- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Uninter - ``Centro Universitario Internacionl.``
+- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Uninter - ``Centro Universitario Internacionl.`` (Trancado)
 - 👨‍💻 Desenvolvendo aplicações **React JS e Next JS** e conceitos de interfaces de usuário em páginas web.
 - 🔍 Explorando **Firebase** e conceitos de Banco de Dados.
 - ✨ Buscando sempre aprender e evoluir como desenvolvedor web.
