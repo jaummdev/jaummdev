@@ -2,16 +2,15 @@
 
 ### <h1 align="center">👋 Olá! Eu sou o João Carlos</h1>
 
-<h3 align="center">🚀 Estudante de Desenvolvimento Web | React JS, Next JS e PHP</h3>
+<h3 align="center">🚀 Estudante e desenvolvedor junior | React JS, Next JS, Flutter e PHP</h3>
 
 ---
 
 🎓 **Sobre Mim**
 
-- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Uninter - ``Centro Universitario Internacionl.`` (Trancado)
-- 👨‍💻 Desenvolvendo aplicações **React JS e Next JS** e conceitos de interfaces de usuário em páginas web.
-- 🔍 Explorando **Firebase** e conceitos de Banco de Dados.
-- ✨ Buscando sempre aprender e evoluir como desenvolvedor web.
+- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Uninter - ``Centro Universitario Internacionl.``
+- 👨‍💻 Desenvolvendo aplicações **Next JS, PHP e Flutter** e conceitos de interfaces de usuário em páginas web.
+- ✨ Buscando sempre aprender e evoluir como desenvolvedor.
 
 ---
 
@@ -21,13 +20,13 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Illustrator" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50" />
 </div>
 
 ---
