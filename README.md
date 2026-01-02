@@ -1,32 +1,40 @@
-# 🌟 Bem-vindo ao meu GitHub!
+# 🌟 Welcome to my GitHub | Bem-vindo ao meu GitHub
 
-### <h1 align="center">👋 Olá! Eu sou o João Carlos</h1>
+<h1 align="center">👋 Hi, I'm João Carlos</h1>
+<h3 align="center">🚀 Web Developer | React, Next.js, Node.js, PHP & Flutter</h3>
 
-<h3 align="center">🚀 Estudante e desenvolvedor junior | React JS, Next JS, Flutter e PHP</h3>
-
----
-
-🎓 **Sobre Mim**
-
-- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Uninter - ``Centro Universitario Internacionl.``
-- 👨‍💻 Desenvolvendo aplicações **Next JS, PHP e Flutter** e conceitos de interfaces de usuário em páginas web.
-- ✨ Buscando sempre aprender e evoluir como desenvolvedor.
+<p align="center">
+Building real-world applications, learning every day and aiming to create impactful digital products.
+</p>
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+## 🇧🇷 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web, focado em criar aplicações modernas, bem estruturadas e com boa experiência de usuário.
+
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** — UNINTER  
+- 👨‍💻 Atuação com **React, Next.js, Node.js, PHP e Flutter**
+- 🧠 Interesse em produtos reais, boas práticas e crescimento contínuo
+- 🚀 Sempre buscando evoluir como desenvolvedor e como profissional
+
+---
+
+## 🇺🇸 About Me
+
+I'm a **Systems Analysis and Development** student and a web developer focused on building modern, scalable, and user-friendly applications.
+
+- 🎓 Degree in **Systems Analysis and Development** — UNINTER  
+- 👨‍💻 Experience with **React, Next.js, Node.js, PHP and Flutter**
+- 🧠 Strong interest in real-world products and clean, maintainable code
+- 🚀 Constantly learning and improving as a developer
+
+---
+
+## ⚡ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="50" height="50" />
-   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,firebase,tailwind,photoshop,illustrator" />
 </div>
 
 ---
@@ -34,23 +42,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaummdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaummdev&layout=compact&langs_count=7&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaummdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaummdev&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me | Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jaummdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jaumm.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaocarlosbdesena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://jaummdev.com.br"><img src="https://img.shields.io/badge/-WebSite-%235247B5?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jaummdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jaumm.c" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:joaocarlosbdesena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jaummdev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-5247B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🌟
+  ⭐ Thanks for visiting my profile! <br/>
+  Obrigado pela visita!
 </p>
