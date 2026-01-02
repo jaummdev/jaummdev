@@ -39,15 +39,6 @@ I'm a **Systems Analysis and Development** student and a web developer focused o
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaummdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaummdev&layout=compact&langs_count=7&theme=radical" />
-</div>
-
----
-
 ## 🌐 Connect with Me | Conecte-se Comigo
 
 <div align="center">
