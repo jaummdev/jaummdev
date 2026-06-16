@@ -18,7 +18,6 @@ Meu foco é no desenvolvimento Full Stack, criando plataformas escaláveis, solu
 - 💼 **Experiência:** Atuando profissionalmente com soluções para o setor de turismo.
 - 🎯 **Stack Principal:** Laravel, Node.js, Next.js e React.js.
 - 🌱 **Em Aprendizado:** Estudando o ecossistema Vue.js e explorando as novidades do Laravel 13.
-- 🏗️ **O que estou construindo:** Desenvolvendo o *Obsidy* (um sistema completo de gestão e reservas para pet hotel) e um *Mini Letterboxd* em Laravel.
 
 ---
 
