@@ -1,45 +1,40 @@
-# 🌟 Welcome to my GitHub | Bem-vindo ao meu GitHub
+# 🌟 Bem-vindo ao meu GitHub
 
-<h1 align="center">👋 Hi, I'm João Carlos</h1>
-<h3 align="center">🚀 Web Developer | React, Next.js, Node.js, PHP & Flutter</h3>
+<h1 align="center">👋 Olá, sou o João Carlos</h1>
+<h3 align="center">🚀 Desenvolvedor Web Full Stack | Laravel, Next.js & Vue.js</h3>
 
 <p align="center">
-Building real-world applications, learning every day and aiming to create impactful digital products.
+Construindo aplicações web robustas, focando em arquitetura, performance e código limpo tanto no Back-end quanto no Front-end.
 </p>
 
 ---
 
 ## 🇧🇷 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web, focado em criar aplicações modernas, bem estruturadas e com boa experiência de usuário.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER, com previsão de graduação para setembro de 2026. Atualmente, atuo profissionalmente como **Programador Júnior na A Tindo Software**, desenvolvendo sistemas voltados para a área de turismo. 
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** — UNINTER  
-- 👨‍💻 Atuação com **React, Next.js, Node.js, PHP e Flutter**
-- 🧠 Interesse em produtos reais, boas práticas e crescimento contínuo
-- 🚀 Sempre buscando evoluir como desenvolvedor e como profissional
+Meu foco é no desenvolvimento Full Stack, criando plataformas escaláveis, solucionando problemas reais e construindo produtos digitais de alto impacto.
 
----
-
-## 🇺🇸 About Me
-
-I'm a **Systems Analysis and Development** student and a web developer focused on building modern, scalable, and user-friendly applications.
-
-- 🎓 Degree in **Systems Analysis and Development** — UNINTER  
-- 👨‍💻 Experience with **React, Next.js, Node.js, PHP and Flutter**
-- 🧠 Strong interest in real-world products and clean, maintainable code
-- 🚀 Constantly learning and improving as a developer
+- 💼 **Experiência:** Atuando profissionalmente com soluções para o setor de turismo.
+- 🎯 **Stack Principal:** Laravel, Node.js, Next.js e React.js.
+- 🌱 **Em Aprendizado:** Estudando o ecossistema Vue.js e explorando as novidades do Laravel 13.
+- 🏗️ **O que estou construindo:** Desenvolvendo o *Obsidy* (um sistema completo de gestão e reservas para pet hotel) e um *Mini Letterboxd* em Laravel.
 
 ---
 
 ## ⚡ Tech Stack & Tools
 
+Tecnologias e ferramentas que utilizo no meu dia a dia para desenvolver sistemas modernos:
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,firebase,tailwind,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nextjs,react,vue,js,ts,tailwind,docker,github,supabase" />
 </div>
+
+*(Stack focada em desenvolvimento, incluindo infraestrutura e ferramentas que utilizo frequentemente como Docker, GitHub e Supabase)*.
 
 ---
 
-## 🌐 Connect with Me | Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaummdev" target="_blank">
@@ -59,6 +54,5 @@ I'm a **Systems Analysis and Development** student and a web developer focused o
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! <br/>
-  Obrigado pela visita!
+  ⭐ Obrigado pela visita!
 </p>
